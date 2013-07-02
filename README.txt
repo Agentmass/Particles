@@ -1,0 +1,1 @@
+Place the particles folder in your garrysmod/garrysmod/ folder and overwrite everything.
